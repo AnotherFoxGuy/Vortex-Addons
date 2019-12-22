@@ -14,7 +14,7 @@ function findModPath() {
 
 function main(context) {
   context.registerGame({
-    id: 'MSC',
+    id: 'mysummercar',
     name: 'My Summer Car',
     logo: 'header.jpg',
     mergeMods: true,
